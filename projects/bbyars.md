@@ -1,8 +1,8 @@
-# BByars
+# World of Plastics
 
 ## Table of Contents
 
--   [BByars](#bbyars)
+-   [World of Plastics](#world-of-plastics)
     -   [Table of Contents](#table-of-contents)
     -   [About](#about)
     -   [Libraries Used In this project ](#libraries-used-in-this-project-)
