@@ -37,6 +37,7 @@ These libraries are mostly used to build this application.
 -   Notifee
 -   Socket.io
 -   Node JS
+-   Mongo DB
 -   Express Js
 -   React Native AGORA
 

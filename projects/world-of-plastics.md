@@ -44,8 +44,6 @@ These libraries are mostly used to build this application.
     - typescript definations
 - utils
     - utility based files
-- __mockdb
-    - fake/mock data for the website
 
 ```
 
