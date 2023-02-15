@@ -23,4 +23,4 @@ These libraries are mostly used to build this application.
 
 ## Screenshots<a name = "screenshots"></a>
 
-![pnr 1](https://res.cloudinary.com/dtt3kvqkh/video/upload/v1676481560/upocopo_smofcs.mp4 "pnr 1")
+![pnr 1](/../../files/upocopo.gif "pnr 1")
