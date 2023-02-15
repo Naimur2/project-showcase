@@ -29,39 +29,23 @@ These libraries are mostly used to build this application.
 
 ```
 
-___ pages
-|    |
-|    |__ all the api and pages of the app
-|
-|__ public
-|    |
-|    |__ al ublic Images
-|
-|__ sections
-|    |
-|    |__ all the sections and their components
-|
-|__ styles
-|    |
-|    |__ all required styles
-|    |
-|    |__ global.css for tailwind css
-|
-|__ svg-icons
-|    |
-|    |__ all svg icons
-|
-|__ typescript
-|    |
-|    |__ typescript definations
-|
-|__ utils
-|    |
-|    |__ utility based files
-|
-|__ __mockdb
-     |
-     |__ fake/mock data for the website
+-pages
+    - all the api and pages of the app
+-public
+    - al ublic Images
+-sections
+    - all the sections and their components
+- styles
+    - all required styles
+    - global.css for tailwind css
+- svg-icons
+    - all svg icons
+- typescript
+    - typescript definations
+- utils
+    - utility based files
+- __mockdb
+    - fake/mock data for the website
 
 ```
 
