@@ -2,6 +2,6 @@
 
 ## Md Naimur Rahaman
 
-![projects/world-of-plastics.md]
+![World Of Plastics](projects/world-of-plastics.md)
 
 ## more details coming soon
