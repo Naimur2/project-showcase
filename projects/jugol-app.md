@@ -88,13 +88,16 @@ import CallScreen from '@screens/message-screens/CallingScreen/CallingScreen';
 
 ## Screenshots<a name = "screenshots"></a>
 
-![World Of Plastic 1](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1675693190/wop3_guob5q.png "banner_wop 1")
-![World Of Plastic 2](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1675693191/wop2_i5eeqw.png "banner_wop 2")
+![jugol 1](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676485591/jugol_1_lxab2f.png "banner_wop 1")
+![jugol 2](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676485590/jugol_4_uutmsz.png "banner_wop 2")
+![jugol 3](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676485591/jugol_3_ggeurt.png "banner_wop 3")
+![jugol 4](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676485590/jugol_4_uutmsz.png "banner_wop 4")
+![jugol 5](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676485591/jugol_5_fgwv28.png "banner_wop 5")
 
 ## Download Apk <a name = "live-link"></a>
 
-The application is still in development and it is going to be live soon
+The application is in testing phase and it is going to be live soon
 
 ```
-https://bbyars-amaityoyp-naimur2.vercel.app/
+https://shorturl.at/uNZ02
 ```
