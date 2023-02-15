@@ -8,5 +8,6 @@ This is the list of my project which i have worked.
 -   [Jugol](projects/jugol-app.md)
 -   [PickNRide](projects/pick-N-Rde.md)
 -   [Food Ordering App](projects/food-ordering-app.md)
+-   [Seremo](projects/seremo.md)
 
 ## more details coming soon

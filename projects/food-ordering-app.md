@@ -6,7 +6,6 @@
     -   [Table of Contents](#table-of-contents)
     -   [About](#about)
     -   [Libraries Used In this project ](#libraries-used-in-this-project-)
-        -   [The files are imported as below](#the-files-are-imported-as-below)
     -   [Screenshots](#screenshots)
     -   [Link ](#link-)
 
@@ -23,12 +22,6 @@ These libraries are mostly used to build this application.
 -   Node Js
 -   Express
 -   Node Js
-
-### The files are imported as below
-
-```
-import ErrorToast from "@components/ErrorToast/ErrorToast";
-```
 
 ## Screenshots<a name = "screenshots"></a>
 
