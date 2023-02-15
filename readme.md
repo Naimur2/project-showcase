@@ -10,3 +10,4 @@ This is the list of my project which i have worked.
 -   [Food Ordering App](projects/food-ordering-app.md)
 -   [Seremo](projects/seremo.md)
 -   [Upocopo](projects/upocopo.md)
+-   [Taforte](projects/taforte.md)
