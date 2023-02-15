@@ -9,5 +9,4 @@ This is the list of my project which i have worked.
 -   [PickNRide](projects/pick-N-Rde.md)
 -   [Food Ordering App](projects/food-ordering-app.md)
 -   [Seremo](projects/seremo.md)
-
-## more details coming soon
+-   [Upocopo](projects/upocopo.md)
