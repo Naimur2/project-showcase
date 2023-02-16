@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
--   [Upocopo](#upocopo)
-    -   [Table of Contents](#table-of-contents)
-    -   [About](#about)
-    -   [Libraries Used In this project ](#libraries-used-in-this-project-)
-        -   [The files are imported as below](#the-files-are-imported-as-below)
-    -   [Screenshots](#screenshots)
+- [Upocopo](#upocopo)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Libraries Used In this project ](#libraries-used-in-this-project-)
+    - [The files are imported as below](#the-files-are-imported-as-below)
+  - [Screenshots](#screenshots)
 
 ## About<a name = "about"></a>
 
@@ -23,4 +23,4 @@ These libraries are mostly used to build this application.
 
 ## Screenshots<a name = "screenshots"></a>
 
-![pnr 1](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676483087/taforte_lkajiu.gif "pnr 1")
+![taforte 1](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676483087/taforte_lkajiu.gif "tfr 1")
