@@ -6,7 +6,6 @@
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Libraries Used In this project ](#libraries-used-in-this-project-)
-    - [The files are imported as below](#the-files-are-imported-as-below)
   - [Screenshots](#screenshots)
 
 ## About<a name = "about"></a>
@@ -19,8 +18,8 @@ These libraries are mostly used to build this application.
 
 -   React Native(Expo)
 
-### The files are imported as below
-
 ## Screenshots<a name = "screenshots"></a>
 
 ![taforte 1](https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676483087/taforte_lkajiu.gif "tfr 1")
+
+https://res.cloudinary.com/dtt3kvqkh/image/upload/v1676483087/taforte_lkajiu.gif
