@@ -10,7 +10,7 @@
 
 ## About<a name = "about"></a>
 
-Save Your Card Images And share to other.
+A React Native application that allows users to create and upload their business cards to the platform. Once uploaded, users can easily share their business cards with others. This feature could be particularly useful for individuals who frequently network or attend events and want to quickly share their contact information with new contacts. The app is designed to be user-friendly and easy to navigate, allowing users to create and share their business cards with just a few taps on their mobile devices.
 
 ## Libraries Used In this project <a name = "technologies"></a>
 
